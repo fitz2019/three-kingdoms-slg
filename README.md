@@ -1,7 +1,7 @@
 # SLGGame-Three-Kingdoms-Strategy
 # slg三国策略游戏服务器Demo
 
-## 客户端demo：https://github.com/llr104/slgclient
+## 客户端demo：[https://github.com/llr104/slgclient](https://github.com/fitz2019/three-kingdoms-slg--client-)
 
 ## 概要
 - mysql数据落地，orm映射
