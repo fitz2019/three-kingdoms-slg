@@ -12,8 +12,8 @@
 
 ### 多进程服务
 - httpserver  提供一些api调用
-- gateserver  网关，可以部署多个进行负债均衡，客户端的所有loginserver、chatserver、slgserver的消息都通过该服进行转发
-- loginserver 登录服，可以部署多个进行负债均衡
+- gateserver  网关，可以部署多个进行负载均衡，客户端的所有loginserver、chatserver、slgserver的消息都通过该服进行转发
+- loginserver 登录服，可以部署多个进行负载均衡
 - chatserver  聊天服，可以部署多个，原则上一个slgserver对应一个chatserver
 - slgserver   游戏服，可以部署多个，不同服之间的玩家数据不共通
 
